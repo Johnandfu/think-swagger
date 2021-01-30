@@ -13,7 +13,7 @@
         "issues": "https://github.com/westhack/think-swagger/issues"
     },
     "require": {
-        "php": ">=7.1.0",
+       "topthink/framework": "^6.0.0"
         "zircote/swagger-php": "^2.0"
     },
     "autoload": {
