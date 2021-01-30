@@ -5,17 +5,15 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "version": "1.1.0",
-    "authors": [
-        {
-            "name": "westhack",
-            "email": "452855489@qq.com"
-        }
-    ],
+    "authors": [{
+        "name": "westhack",
+        "email": "452855489@qq.com"
+    }],
     "support": {
         "issues": "https://github.com/westhack/think-swagger/issues"
     },
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1.0",
         "zircote/swagger-php": "^2.0"
     },
     "autoload": {

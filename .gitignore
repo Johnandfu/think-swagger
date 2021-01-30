@@ -1,6 +1,1 @@
-.php_cs.cache
-.php_cs.dist
-.idea/*
-vendor/*
-!.gitignore
-.githup
+
